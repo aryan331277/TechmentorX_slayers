@@ -6,10 +6,10 @@ An LLM-powered airport + flight intelligence platform that guides passengers in 
 Air travelers struggle to find the best flight prices due to dynamic fare changes and limited intelligent filtering. Existing systems don’t continuously monitor prices or personalize recommendations based on timing, cost, and destination value. We address this with real-time price tracking, best-option suggestions, and forecasting.
 
 ## Our Solution (4 Parts)
-1) Passenger Support Dashboard (Aryan)  
-2) Flight Prices Best Deal Fetching AI Agent (Aditya)  
-3) Future Price Prediction (Time Series) (Team)  
-4) Web Analytics Dashboard (Team)
+1) Passenger Support Dashboard  
+2) Flight Prices Best Deal Fetching AI Agent  
+3) Future Price Prediction (Time Series)  
+4) Web Analytics Dashboard
 
 ## Key Features
 ### Passenger-Facing Intelligence
